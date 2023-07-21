@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cruddemo" />
+        <module name="cruddemo (5)" />
+        <module name="cruddemo (6)" />
+        <module name="cruddemo (3)" />
+        <module name="cruddemo (4)" />
+        <module name="cruddemo (7)" />
+        <module name="cruddemo (1)" />
+        <module name="cruddemo (2)" />
+        <module name="limits-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cruddemo" target="17" />
+      <module name="cruddemo (1)" target="17" />
+      <module name="cruddemo (2)" target="17" />
+      <module name="cruddemo (3)" target="17" />
+      <module name="cruddemo (4)" target="17" />
+      <module name="cruddemo (5)" target="17" />
+      <module name="cruddemo (6)" target="17" />
+      <module name="cruddemo (7)" target="17" />
+      <module name="limits-server" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cruddemo" options="-parameters" />
+      <module name="cruddemo (1)" options="-parameters" />
+      <module name="cruddemo (2)" options="-parameters" />
+      <module name="cruddemo (3)" options="-parameters" />
+      <module name="cruddemo (4)" options="-parameters" />
+      <module name="cruddemo (5)" options="-parameters" />
+      <module name="cruddemo (6)" options="-parameters" />
+      <module name="cruddemo (7)" options="-parameters" />
+      <module name="limits-server" options="-parameters" />
+    </option>
+  </component>
+</project>

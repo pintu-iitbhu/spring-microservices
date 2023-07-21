@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/03-spring-boot-hybernate-jpa-crud/01-cruddemo-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/03-spring-boot-hybernate-jpa-crud/01-cruddemo-student/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/01-one-to-one-uni/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/01-one-to-one-uni/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/02-one-to-one-bi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/02-one-to-one-bi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/03-one-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/03-one-to-many/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/04-one-to-many-uni/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/04-one-to-many-uni/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/limits-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>
