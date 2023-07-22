@@ -3,6 +3,8 @@ package com.pintuiitbhu.currencyexchangeservice.controller;
 import com.pintuiitbhu.currencyexchangeservice.entity.CurrencyExchange;
 import com.pintuiitbhu.currencyexchangeservice.repository.CurrencyExchangeRepository;
 import jakarta.transaction.Transactional;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.http.HttpStatus;
@@ -18,6 +20,7 @@ import java.math.BigDecimal;
 @RestController
 public class CurrencyExchangeController {
 
+    Logger logger = LoggerFactory.getLogger(CurrencyExchangeController.class);
     @Autowired
     private Environment env;
 
@@ -29,6 +32,7 @@ public class CurrencyExchangeController {
             @PathVariable String from,
             @PathVariable String to
     ){
+        logger.info("retrieveCurrencyExchange called with {} to {}",from, to);
         CurrencyExchange currencyExchange= currencyExchangeRepository.findByExchangeFromAndExchangeTo(from,to);
 //        CurrencyExchange currencyExchange1 = new CurrencyExchange(100L,"USD","INR", BigDecimal.valueOf(83.5));
         currencyExchange.setEnvironment(env.getProperty("local.server.port"));
