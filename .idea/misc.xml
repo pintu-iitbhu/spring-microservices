@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/limits-server/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/01-spring-boot-rest-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/03-spring-boot-hybernate-jpa-crud/01-cruddemo-student/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/03-one-to-many/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/02-one-to-one-bi/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/01-one-to-one-uni/pom.xml" />
+        <option value="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/04-one-to-many-uni/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

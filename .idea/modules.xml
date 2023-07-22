@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/01-spring-boot-rest-crud/cruddemo.iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/01-spring-boot-rest-crud/cruddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/cruddemo (1).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/cruddemo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/cruddemo (2).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/cruddemo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/03-spring-boot-hybernate-jpa-crud/01-cruddemo-student/cruddemo (3).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/03-spring-boot-hybernate-jpa-crud/01-cruddemo-student/cruddemo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/03-one-to-many/cruddemo (4).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/03-one-to-many/cruddemo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/02-one-to-one-bi/cruddemo (5).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/02-one-to-one-bi/cruddemo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/01-one-to-one-uni/cruddemo (6).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/01-one-to-one-uni/cruddemo (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/04-one-to-many-uni/cruddemo (7).iml" filepath="$PROJECT_DIR$/dev-spring-boot-beginner/09-spring-boot-jpa-advance-mapping/04-one-to-many-uni/cruddemo (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/limits-server/limits-server.iml" filepath="$PROJECT_DIR$/limits-server/limits-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-microservices.iml" filepath="$PROJECT_DIR$/.idea/spring-microservices.iml" />
+    </modules>
+  </component>
+</project>
