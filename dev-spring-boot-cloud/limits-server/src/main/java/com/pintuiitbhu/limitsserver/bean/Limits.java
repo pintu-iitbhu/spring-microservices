@@ -1,11 +1,16 @@
 package com.pintuiitbhu.limitsserver.bean;
 
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Limits {
+    @Value("${limits-service.minvalue}")
     private int minimum;
+    @Value("${limits-service.maxvalue}")
     private int maximum;
 
-    public Limits() {
-    }
+    public Limits() {}
 
     public Limits(int minimum, int maximum) {
         this.minimum = minimum;
